@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mefah1m/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/mefah1m/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mefah1m/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mefah1m/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/mefah1m/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
