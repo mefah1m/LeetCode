@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mefah1m/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/mefah1m/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mefah1m/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mefah1m/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/mefah1m/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
