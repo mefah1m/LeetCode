@@ -1,8 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-      int m= s.size();
-      int n= t.size();
+      int m= s.size(), n= t.size();
       char rest= NULL;
       for(int i=0; i<m; i++){
         rest^=s[i];
