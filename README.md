@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mefah1m/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mefah1m/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/mefah1m/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mefah1m/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mefah1m/LeetCode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mefah1m/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
