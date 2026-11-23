@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mefah1m/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mefah1m/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -56,12 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
