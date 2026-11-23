@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mefah1m/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/mefah1m/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1720-decode-xored-array](https://github.com/mefah1m/LeetCode/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/mefah1m/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mefah1m/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mefah1m/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/mefah1m/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/mefah1m/LeetCode/tree/master/1720-decode-xored-array) |
 ## Hash Table
 |  |
 | ------- |
