@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mefah1m/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/mefah1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mefah1m/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/mefah1m/LeetCode/tree/master/0260-single-number-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mefah1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mefah1m/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mefah1m/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
