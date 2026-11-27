@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mefah1m/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/mefah1m/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mefah1m/LeetCode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
