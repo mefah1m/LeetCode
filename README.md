@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mefah1m/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mefah1m/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/mefah1m/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
@@ -93,8 +96,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mefah1m/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mefah1m/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
