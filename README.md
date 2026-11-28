@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mefah1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/mefah1m/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mefah1m/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mefah1m/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mefah1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mefah1m/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mefah1m/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/mefah1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mefah1m/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
